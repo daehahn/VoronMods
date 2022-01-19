@@ -1,7 +1,7 @@
 Removale Door Mount Hinges
 ==============================
 
-For the matainance, Voron front doors should easily detachble
+For the matainance, Voron front doors should easily detachable
 
 
 BOM
